@@ -4,7 +4,9 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        // mostfrequentlyasked //
+        /** Uncomment which one you want to run **/
+
+        /// MostFrequentlyAsked ///
         ReverseString.Run();
     }
 }
