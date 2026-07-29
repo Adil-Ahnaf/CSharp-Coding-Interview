@@ -7,6 +7,7 @@ public class Program
         /** Uncomment which one you want to run **/
 
         /// MostFrequentlyAsked ///
-        ReverseString.Run();
+        //ReverseString.Run();
+        PalindromeString.Run();
     }
 }
