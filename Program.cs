@@ -10,7 +10,8 @@ public class Program
         //ReverseString.Run();
         //PalindromeString.Run();
         //FibonacciSeries.Run();
-        PrimeNumber.Run();
+        //PrimeNumber.Run();
+        Factorial.Run();
 
     }
 }
