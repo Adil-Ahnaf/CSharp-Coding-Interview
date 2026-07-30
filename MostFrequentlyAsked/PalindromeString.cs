@@ -12,8 +12,8 @@ namespace CSharp_Coding_Interview.MostFrequentlyAsked
         {
             Console.WriteLine("==> Check Palindrome String <==");
             /*
-            Palindrome: "radar", "noon", "civic", "kayak"
-            Not Palindrome: "house", "computer", "hello"
+                Palindrome: "radar", "noon", "civic", "kayak"
+                Not Palindrome: "house", "computer", "hello"
             */
 
             Console.Write("Enter a string: ");

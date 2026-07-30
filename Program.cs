@@ -9,7 +9,8 @@ public class Program
         /**  MostFrequentlyAsked **/
         //ReverseString.Run();
         //PalindromeString.Run();
-        FibonacciSeries.Run();
+        //FibonacciSeries.Run();
+        PrimeNumber.Run();
 
     }
 }
