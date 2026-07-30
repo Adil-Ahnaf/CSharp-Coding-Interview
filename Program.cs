@@ -6,8 +6,10 @@ public class Program
     {
         /** Uncomment which one you want to run **/
 
-        /// MostFrequentlyAsked ///
+        /**  MostFrequentlyAsked **/
         //ReverseString.Run();
-        PalindromeString.Run();
+        //PalindromeString.Run();
+        FibonacciSeries.Run();
+
     }
 }
