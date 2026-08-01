@@ -11,7 +11,9 @@ public class Program
         //PalindromeString.Run();
         //FibonacciSeries.Run();
         //PrimeNumber.Run();
-        Factorial.Run();
+        //Factorial.Run();
+        //LargestNumber.Run();
+        SecondLargest.Run();
 
     }
 }
