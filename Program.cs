@@ -1,4 +1,5 @@
-﻿using CSharp_Coding_Interview.MostFrequentlyAsked;
+﻿using CSharp_Coding_Interview;
+using CSharp_Coding_Interview.MostFrequentlyAsked;
 
 public class Program
 {
@@ -13,7 +14,8 @@ public class Program
         //PrimeNumber.Run();
         //Factorial.Run();
         //LargestNumber.Run();
-        SecondLargest.Run();
+        //SecondLargest.Run();
+        Duplicate.Run();
 
     }
 }
