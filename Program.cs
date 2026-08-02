@@ -19,7 +19,7 @@ public class Program
         //RemoveDuplicate.Run();
         //MissingNumber.Run();
         //CountVowels.Run();
-        CharacterFrequencies.Run();
-
+        //CharacterFrequencies.Run();
+        NonRepeatedCharacter.Run();
     }
 }
