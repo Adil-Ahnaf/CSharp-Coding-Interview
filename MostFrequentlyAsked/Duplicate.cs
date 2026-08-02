@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharp_Coding_Interview
+namespace CSharp_Coding_Interview.MostFrequentlyAsked
 {
     public class Duplicate
     {
@@ -30,7 +30,7 @@ namespace CSharp_Coding_Interview
 
             Console.WriteLine($"Duplicate Numbers: {string.Join(", ", result)}");
 
-            Console.WriteLine("Programe Finished!");
+            Console.WriteLine("\nPrograme Finished!");
             Console.ReadKey();
         }
     }

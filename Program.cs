@@ -16,7 +16,8 @@ public class Program
         //LargestNumber.Run();
         //SecondLargest.Run();
         //Duplicate.Run();
-        RemoveDuplicate.Run();
+        //RemoveDuplicate.Run();
+        //MissingNumber.Run();
 
     }
 }

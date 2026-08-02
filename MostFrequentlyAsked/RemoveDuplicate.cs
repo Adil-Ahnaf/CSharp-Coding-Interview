@@ -27,7 +27,7 @@ namespace CSharp_Coding_Interview.MostFrequentlyAsked
             Console.WriteLine($"Result is: {string.Join(", ", result)}");
             Console.WriteLine($"Duplicate is: {string.Join(", ", duplicate)}");
 
-            Console.WriteLine("Program Finished!");
+            Console.WriteLine("\nProgram Finished!");
             Console.ReadKey();
         }
     }
