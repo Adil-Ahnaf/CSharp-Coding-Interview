@@ -18,7 +18,8 @@ public class Program
         //Duplicate.Run();
         //RemoveDuplicate.Run();
         //MissingNumber.Run();
-        CountVowels.Run();
+        //CountVowels.Run();
+        CharacterFrequencies.Run();
 
     }
 }
