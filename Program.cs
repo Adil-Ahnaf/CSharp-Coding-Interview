@@ -15,7 +15,8 @@ public class Program
         //Factorial.Run();
         //LargestNumber.Run();
         //SecondLargest.Run();
-        Duplicate.Run();
+        //Duplicate.Run();
+        RemoveDuplicate.Run();
 
     }
 }
