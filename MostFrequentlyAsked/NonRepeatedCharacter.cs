@@ -13,7 +13,7 @@ namespace CSharp_Coding_Interview.MostFrequentlyAsked
             Console.WriteLine("==> Find First Non-Repeated Character <==");
 
             Console.Write("Enter a String: ");
-            string? input = Console.ReadLine().ToLower();
+            string? input = Console.ReadLine();
 
             if (string.IsNullOrWhiteSpace(input))
             {
@@ -23,7 +23,7 @@ namespace CSharp_Coding_Interview.MostFrequentlyAsked
 
             foreach (char item in input)
             {
-                if (input.Count(x => x.Equals(item)) == 1)
+                if (input.Count(x => char.ToLower(x) == char.ToLower(item)) == 1)
                 {
                     Console.WriteLine($"First Non-Repeated Character: {item}");
                     break;
