@@ -22,6 +22,7 @@ public class Program
         //CharacterFrequencies.Run();
         //NonRepeatedCharacter.Run();
         //ReverseWord.Run();
-        Anagram.Run();
+        //Anagram.Run();
+        MoveZeros.Run();
     }
 }
