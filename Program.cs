@@ -20,6 +20,7 @@ public class Program
         //MissingNumber.Run();
         //CountVowels.Run();
         //CharacterFrequencies.Run();
-        NonRepeatedCharacter.Run();
+        //NonRepeatedCharacter.Run();
+        ReverseWord.Run();
     }
 }
