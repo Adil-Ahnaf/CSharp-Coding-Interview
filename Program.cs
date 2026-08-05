@@ -21,6 +21,7 @@ public class Program
         //CountVowels.Run();
         //CharacterFrequencies.Run();
         //NonRepeatedCharacter.Run();
-        ReverseWord.Run();
+        //ReverseWord.Run();
+        Anagram.Run();
     }
 }
