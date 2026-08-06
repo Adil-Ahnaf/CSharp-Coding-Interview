@@ -23,6 +23,7 @@ public class Program
         //NonRepeatedCharacter.Run();
         //ReverseWord.Run();
         //Anagram.Run();
-        MoveZeros.Run();
+        //MoveZeros.Run();
+        PairNumberSum.Run();
     }
 }
