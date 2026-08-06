@@ -25,6 +25,7 @@ public class Program
         //Anagram.Run();
         //MoveZeros.Run();
         //PairNumberSum.Run();
-        CountOccurrences.Run();
+        //CountOccurrences.Run();
+        SortedObjects.Run();
     }
 }
