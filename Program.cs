@@ -24,6 +24,7 @@ public class Program
         //ReverseWord.Run();
         //Anagram.Run();
         //MoveZeros.Run();
-        PairNumberSum.Run();
+        //PairNumberSum.Run();
+        CountOccurrences.Run();
     }
 }
