@@ -26,6 +26,7 @@ public class Program
         //MoveZeros.Run();
         //PairNumberSum.Run();
         //CountOccurrences.Run();
-        SortedObjects.Run();
+        //SortedObjects.Run();
+        GroupData.Run();
     }
 }
