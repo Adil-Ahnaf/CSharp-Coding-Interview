@@ -33,6 +33,7 @@ public class Program
         /**  String **/
         //ReverseString.Run();
         //ReverseWord.Run();
-        CountWords.Run();
+        //CountWords.Run();
+        FindDuplicate.Run();
     }
 }
