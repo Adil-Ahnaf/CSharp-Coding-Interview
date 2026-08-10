@@ -31,6 +31,8 @@ public class Program
         //GroupData.Run();
 
         /**  String **/
-        ReverseString.Run();
+        //ReverseString.Run();
+        //ReverseWord.Run();
+        CountWords.Run();
     }
 }
