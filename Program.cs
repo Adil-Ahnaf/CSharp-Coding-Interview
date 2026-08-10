@@ -1,5 +1,6 @@
 ﻿using CSharp_Coding_Interview;
-using CSharp_Coding_Interview.MostFrequentlyAsked;
+//using CSharp_Coding_Interview.MostFrequentlyAsked;
+using CSharp_Coding_Interview.String;
 
 public class Program
 {
@@ -27,6 +28,9 @@ public class Program
         //PairNumberSum.Run();
         //CountOccurrences.Run();
         //SortedObjects.Run();
-        GroupData.Run();
+        //GroupData.Run();
+
+        /**  String **/
+        ReverseString.Run();
     }
 }
