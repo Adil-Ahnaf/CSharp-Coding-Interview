@@ -34,6 +34,7 @@ public class Program
         //ReverseString.Run();
         //ReverseWord.Run();
         //CountWords.Run();
-        FindDuplicate.Run();
+        //FindDuplicate.Run();
+        RemoveDuplicate.Run();
     }
 }
