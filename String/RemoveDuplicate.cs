@@ -10,23 +10,13 @@ namespace CSharp_Coding_Interview.String
     {
         public static void Run()
         {
-            Console.Write("Enter a String: ");
-            string input = Console.ReadLine();
+            string? str = "bookkeeper";
 
-            string output = RemovingDuplicateChar(input);
-            Console.WriteLine($"After Removing Duplicate: {output}");
-        }
+            var uniqueChar = str.Distinct();
+            string result = new string(uniqueChar.ToArray());
 
-        public static string RemovingDuplicateChar(string input)
-        {
-            string result = string.Empty;
-
-            foreach (char c in input)
-            {
-                if (!result.Contains(c))
-                    result += c;
-            }
-            return result;
+            Console.WriteLine($"Orginal String: {str}");
+            Console.WriteLine($"Unique String: {result}");
         }
     }
 }
