@@ -1,6 +1,7 @@
 ﻿using CSharp_Coding_Interview;
 //using CSharp_Coding_Interview.MostFrequentlyAsked;
-using CSharp_Coding_Interview.String;
+//using CSharp_Coding_Interview.StringQuestion;
+using CSharp_Coding_Interview.ArrayQuestion;
 
 public class Program
 {
@@ -30,7 +31,7 @@ public class Program
         //SortedObjects.Run();
         //GroupData.Run();
 
-        /**  String **/
+        /**  StringQuestion **/
         //ReverseString.Run();
         //ReverseWord.Run();
         //CountWords.Run();
@@ -38,6 +39,10 @@ public class Program
         //RemoveDuplicate.Run();
         //FindMostFrequent.Run();
         //StringRotationCheck.Run();
-        CompressString.Run();
+        //CompressString.Run();
+
+        /**  ArrayQuestion **/
+        //FindLargest.Run();
+        FindSmallest.Run();
     }
 }

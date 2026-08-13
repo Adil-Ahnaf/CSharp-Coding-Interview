@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CSharp_Coding_Interview.String
+namespace CSharp_Coding_Interview.StringQuestion
 {
     public class RemoveDuplicate
     {
