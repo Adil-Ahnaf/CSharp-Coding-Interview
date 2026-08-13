@@ -37,6 +37,7 @@ public class Program
         //FindDuplicate.Run();
         //RemoveDuplicate.Run();
         //FindMostFrequent.Run();
-        StringRotationCheck.Run();
+        //StringRotationCheck.Run();
+        CompressString.Run();
     }
 }
