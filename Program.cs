@@ -36,6 +36,7 @@ public class Program
         //CountWords.Run();
         //FindDuplicate.Run();
         //RemoveDuplicate.Run();
-        FindMostFrequent.Run();
+        //FindMostFrequent.Run();
+        StringRotationCheck.Run();
     }
 }
